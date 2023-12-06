@@ -1,0 +1,5 @@
+{
+  "commentTranslate.multiLineMerge": false,
+  "commentTranslate.targetLanguage": "zh-CN",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
